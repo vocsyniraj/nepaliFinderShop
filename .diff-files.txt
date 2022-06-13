@@ -1,0 +1,3 @@
+app/Http/Controllers/FinanceController.php
+config/config.php
+resources/views/layouts/common.blade.php
